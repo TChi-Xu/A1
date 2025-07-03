@@ -1,0 +1,2 @@
+2024-04-14 13:47:06,140 semantic_segmentation INFO: Namespace(dataset='etci_2021', model='Student')
+2024-04-14 13:47:06,439 semantic_segmentation INFO: Start training, Total Epochs: 400 = Total Iterations 186400

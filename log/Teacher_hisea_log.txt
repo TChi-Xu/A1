@@ -1,0 +1,2 @@
+2024-04-17 11:06:40,665 semantic_segmentation INFO: Namespace(dataset='hisea', model='Teacher')
+2024-04-17 11:06:41,931 semantic_segmentation INFO: Start training, Total Epochs: 400 = Total Iterations 34800

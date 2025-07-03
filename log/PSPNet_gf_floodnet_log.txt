@@ -1,0 +1,259 @@
+2024-06-06 09:02:32,387 semantic_segmentation INFO: Namespace(dataset='gf_floodnet', model='PSPNet')
+2024-06-06 09:02:32,595 semantic_segmentation INFO: Start training, Total Epochs: 400 = Total Iterations 228400
+2024-06-06 09:02:33,894 semantic_segmentation INFO: Iters: 10/228400 || Lr: 0.001800 || Loss: 0.3214 || pixAcc:0.5354 || m_IOU:0.4873 || || Cost Time: 0:00:01 || Estimated Time: 7:37:43
+2024-06-06 09:02:34,867 semantic_segmentation INFO: Iters: 20/228400 || Lr: 0.001800 || Loss: 0.2531 || pixAcc:0.6421 || m_IOU:0.6007 || || Cost Time: 0:00:02 || Estimated Time: 6:54:13
+2024-06-06 09:02:35,845 semantic_segmentation INFO: Iters: 30/228400 || Lr: 0.001800 || Loss: 0.2329 || pixAcc:0.7070 || m_IOU:0.6485 || || Cost Time: 0:00:03 || Estimated Time: 6:39:57
+2024-06-06 09:02:36,818 semantic_segmentation INFO: Iters: 40/228400 || Lr: 0.001800 || Loss: 0.3245 || pixAcc:0.7340 || m_IOU:0.6685 || || Cost Time: 0:00:04 || Estimated Time: 6:32:43
+2024-06-06 09:02:37,796 semantic_segmentation INFO: Iters: 50/228400 || Lr: 0.001800 || Loss: 0.3156 || pixAcc:0.7560 || m_IOU:0.6937 || || Cost Time: 0:00:05 || Estimated Time: 6:28:36
+2024-06-06 09:02:38,770 semantic_segmentation INFO: Iters: 60/228400 || Lr: 0.001800 || Loss: 0.2805 || pixAcc:0.7603 || m_IOU:0.7101 || || Cost Time: 0:00:06 || Estimated Time: 6:25:36
+2024-06-06 09:02:39,749 semantic_segmentation INFO: Iters: 70/228400 || Lr: 0.001800 || Loss: 0.1861 || pixAcc:0.7738 || m_IOU:0.7217 || || Cost Time: 0:00:07 || Estimated Time: 6:23:37
+2024-06-06 09:02:40,727 semantic_segmentation INFO: Iters: 80/228400 || Lr: 0.001799 || Loss: 0.1821 || pixAcc:0.7787 || m_IOU:0.7282 || || Cost Time: 0:00:08 || Estimated Time: 6:22:14
+2024-06-06 09:02:41,701 semantic_segmentation INFO: Iters: 90/228400 || Lr: 0.001799 || Loss: 0.2186 || pixAcc:0.7887 || m_IOU:0.7290 || || Cost Time: 0:00:09 || Estimated Time: 6:21:01
+2024-06-06 09:02:42,686 semantic_segmentation INFO: Iters: 100/228400 || Lr: 0.001799 || Loss: 0.2070 || pixAcc:0.7934 || m_IOU:0.7369 || || Cost Time: 0:00:10 || Estimated Time: 6:20:18
+2024-06-06 09:02:43,663 semantic_segmentation INFO: Iters: 110/228400 || Lr: 0.001799 || Loss: 0.2157 || pixAcc:0.7999 || m_IOU:0.7425 || || Cost Time: 0:00:11 || Estimated Time: 6:19:30
+2024-06-06 09:02:44,638 semantic_segmentation INFO: Iters: 120/228400 || Lr: 0.001799 || Loss: 0.2830 || pixAcc:0.8043 || m_IOU:0.7443 || || Cost Time: 0:00:12 || Estimated Time: 6:18:45
+2024-06-06 09:02:45,613 semantic_segmentation INFO: Iters: 130/228400 || Lr: 0.001799 || Loss: 0.2837 || pixAcc:0.8056 || m_IOU:0.7479 || || Cost Time: 0:00:13 || Estimated Time: 6:18:08
+2024-06-06 09:02:46,590 semantic_segmentation INFO: Iters: 140/228400 || Lr: 0.001799 || Loss: 0.2718 || pixAcc:0.8102 || m_IOU:0.7523 || || Cost Time: 0:00:13 || Estimated Time: 6:17:42
+2024-06-06 09:02:47,566 semantic_segmentation INFO: Iters: 150/228400 || Lr: 0.001799 || Loss: 0.3499 || pixAcc:0.8119 || m_IOU:0.7574 || || Cost Time: 0:00:14 || Estimated Time: 6:17:14
+2024-06-06 09:02:48,543 semantic_segmentation INFO: Iters: 160/228400 || Lr: 0.001799 || Loss: 0.2567 || pixAcc:0.8173 || m_IOU:0.7589 || || Cost Time: 0:00:15 || Estimated Time: 6:16:52
+2024-06-06 09:02:49,520 semantic_segmentation INFO: Iters: 170/228400 || Lr: 0.001799 || Loss: 0.2658 || pixAcc:0.8202 || m_IOU:0.7623 || || Cost Time: 0:00:16 || Estimated Time: 6:16:32
+2024-06-06 09:02:50,496 semantic_segmentation INFO: Iters: 180/228400 || Lr: 0.001799 || Loss: 0.2043 || pixAcc:0.8212 || m_IOU:0.7650 || || Cost Time: 0:00:17 || Estimated Time: 6:16:14
+2024-06-06 09:02:51,471 semantic_segmentation INFO: Iters: 190/228400 || Lr: 0.001799 || Loss: 0.2823 || pixAcc:0.8234 || m_IOU:0.7677 || || Cost Time: 0:00:18 || Estimated Time: 6:15:56
+2024-06-06 09:02:52,471 semantic_segmentation INFO: Iters: 200/228400 || Lr: 0.001799 || Loss: 0.2433 || pixAcc:0.8261 || m_IOU:0.7699 || || Cost Time: 0:00:19 || Estimated Time: 6:16:07
+2024-06-06 09:02:53,446 semantic_segmentation INFO: Iters: 210/228400 || Lr: 0.001799 || Loss: 0.1566 || pixAcc:0.8283 || m_IOU:0.7733 || || Cost Time: 0:00:20 || Estimated Time: 6:15:51
+2024-06-06 09:02:54,429 semantic_segmentation INFO: Iters: 220/228400 || Lr: 0.001798 || Loss: 0.2813 || pixAcc:0.8314 || m_IOU:0.7764 || || Cost Time: 0:00:21 || Estimated Time: 6:15:44
+2024-06-06 09:02:55,405 semantic_segmentation INFO: Iters: 230/228400 || Lr: 0.001798 || Loss: 0.2095 || pixAcc:0.8339 || m_IOU:0.7775 || || Cost Time: 0:00:22 || Estimated Time: 6:15:34
+2024-06-06 09:02:56,377 semantic_segmentation INFO: Iters: 240/228400 || Lr: 0.001798 || Loss: 0.1558 || pixAcc:0.8343 || m_IOU:0.7791 || || Cost Time: 0:00:23 || Estimated Time: 6:15:19
+2024-06-06 09:02:57,364 semantic_segmentation INFO: Iters: 250/228400 || Lr: 0.001798 || Loss: 0.2056 || pixAcc:0.8363 || m_IOU:0.7806 || || Cost Time: 0:00:24 || Estimated Time: 6:15:16
+2024-06-06 09:02:58,343 semantic_segmentation INFO: Iters: 260/228400 || Lr: 0.001798 || Loss: 0.1709 || pixAcc:0.8376 || m_IOU:0.7812 || || Cost Time: 0:00:25 || Estimated Time: 6:15:09
+2024-06-06 09:02:59,345 semantic_segmentation INFO: Iters: 270/228400 || Lr: 0.001798 || Loss: 0.1476 || pixAcc:0.8399 || m_IOU:0.7829 || || Cost Time: 0:00:26 || Estimated Time: 6:15:21
+2024-06-06 09:03:00,322 semantic_segmentation INFO: Iters: 280/228400 || Lr: 0.001798 || Loss: 0.1828 || pixAcc:0.8408 || m_IOU:0.7845 || || Cost Time: 0:00:27 || Estimated Time: 6:15:10
+2024-06-06 09:03:01,296 semantic_segmentation INFO: Iters: 290/228400 || Lr: 0.001798 || Loss: 0.1776 || pixAcc:0.8428 || m_IOU:0.7865 || || Cost Time: 0:00:28 || Estimated Time: 6:14:58
+2024-06-06 09:03:02,267 semantic_segmentation INFO: Iters: 300/228400 || Lr: 0.001798 || Loss: 0.2030 || pixAcc:0.8435 || m_IOU:0.7874 || || Cost Time: 0:00:29 || Estimated Time: 6:14:47
+2024-06-06 09:03:03,239 semantic_segmentation INFO: Iters: 310/228400 || Lr: 0.001798 || Loss: 0.2671 || pixAcc:0.8452 || m_IOU:0.7880 || || Cost Time: 0:00:30 || Estimated Time: 6:14:36
+2024-06-06 09:03:04,218 semantic_segmentation INFO: Iters: 320/228400 || Lr: 0.001798 || Loss: 0.1420 || pixAcc:0.8462 || m_IOU:0.7893 || || Cost Time: 0:00:31 || Estimated Time: 6:14:29
+2024-06-06 09:03:05,196 semantic_segmentation INFO: Iters: 330/228400 || Lr: 0.001798 || Loss: 0.1529 || pixAcc:0.8471 || m_IOU:0.7906 || || Cost Time: 0:00:32 || Estimated Time: 6:14:24
+2024-06-06 09:03:06,185 semantic_segmentation INFO: Iters: 340/228400 || Lr: 0.001798 || Loss: 0.1327 || pixAcc:0.8488 || m_IOU:0.7918 || || Cost Time: 0:00:33 || Estimated Time: 6:14:26
+2024-06-06 09:03:07,162 semantic_segmentation INFO: Iters: 350/228400 || Lr: 0.001798 || Loss: 0.1846 || pixAcc:0.8502 || m_IOU:0.7940 || || Cost Time: 0:00:34 || Estimated Time: 6:14:19
+2024-06-06 09:03:08,141 semantic_segmentation INFO: Iters: 360/228400 || Lr: 0.001797 || Loss: 0.1419 || pixAcc:0.8513 || m_IOU:0.7953 || || Cost Time: 0:00:35 || Estimated Time: 6:14:15
+2024-06-06 09:03:09,113 semantic_segmentation INFO: Iters: 370/228400 || Lr: 0.001797 || Loss: 0.1601 || pixAcc:0.8523 || m_IOU:0.7960 || || Cost Time: 0:00:36 || Estimated Time: 6:14:07
+2024-06-06 09:03:10,094 semantic_segmentation INFO: Iters: 380/228400 || Lr: 0.001797 || Loss: 0.1986 || pixAcc:0.8535 || m_IOU:0.7972 || || Cost Time: 0:00:37 || Estimated Time: 6:14:03
+2024-06-06 09:03:11,069 semantic_segmentation INFO: Iters: 390/228400 || Lr: 0.001797 || Loss: 0.2404 || pixAcc:0.8552 || m_IOU:0.7984 || || Cost Time: 0:00:38 || Estimated Time: 6:13:57
+2024-06-06 09:03:12,050 semantic_segmentation INFO: Iters: 400/228400 || Lr: 0.001797 || Loss: 0.1157 || pixAcc:0.8557 || m_IOU:0.7995 || || Cost Time: 0:00:39 || Estimated Time: 6:13:53
+2024-06-06 09:03:13,024 semantic_segmentation INFO: Iters: 410/228400 || Lr: 0.001797 || Loss: 0.1768 || pixAcc:0.8568 || m_IOU:0.7994 || || Cost Time: 0:00:40 || Estimated Time: 6:13:48
+2024-06-06 09:03:14,000 semantic_segmentation INFO: Iters: 420/228400 || Lr: 0.001797 || Loss: 0.1376 || pixAcc:0.8573 || m_IOU:0.8004 || || Cost Time: 0:00:41 || Estimated Time: 6:13:43
+2024-06-06 09:03:14,983 semantic_segmentation INFO: Iters: 430/228400 || Lr: 0.001797 || Loss: 0.2481 || pixAcc:0.8582 || m_IOU:0.8013 || || Cost Time: 0:00:42 || Estimated Time: 6:13:38
+2024-06-06 09:03:15,973 semantic_segmentation INFO: Iters: 440/228400 || Lr: 0.001797 || Loss: 0.2245 || pixAcc:0.8593 || m_IOU:0.8023 || || Cost Time: 0:00:43 || Estimated Time: 6:13:43
+2024-06-06 09:03:16,964 semantic_segmentation INFO: Iters: 450/228400 || Lr: 0.001797 || Loss: 0.1461 || pixAcc:0.8599 || m_IOU:0.8031 || || Cost Time: 0:00:44 || Estimated Time: 6:13:45
+2024-06-06 09:03:17,945 semantic_segmentation INFO: Iters: 460/228400 || Lr: 0.001797 || Loss: 0.1399 || pixAcc:0.8613 || m_IOU:0.8048 || || Cost Time: 0:00:45 || Estimated Time: 6:13:44
+2024-06-06 09:03:18,926 semantic_segmentation INFO: Iters: 470/228400 || Lr: 0.001797 || Loss: 0.1199 || pixAcc:0.8620 || m_IOU:0.8060 || || Cost Time: 0:00:46 || Estimated Time: 6:13:42
+2024-06-06 09:03:19,907 semantic_segmentation INFO: Iters: 480/228400 || Lr: 0.001797 || Loss: 0.2763 || pixAcc:0.8628 || m_IOU:0.8065 || || Cost Time: 0:00:47 || Estimated Time: 6:13:39
+2024-06-06 09:03:20,884 semantic_segmentation INFO: Iters: 490/228400 || Lr: 0.001797 || Loss: 0.1901 || pixAcc:0.8634 || m_IOU:0.8073 || || Cost Time: 0:00:48 || Estimated Time: 6:13:35
+2024-06-06 09:03:21,868 semantic_segmentation INFO: Iters: 500/228400 || Lr: 0.001796 || Loss: 0.1582 || pixAcc:0.8643 || m_IOU:0.8083 || || Cost Time: 0:00:49 || Estimated Time: 6:13:34
+2024-06-06 09:03:22,843 semantic_segmentation INFO: Iters: 510/228400 || Lr: 0.001796 || Loss: 0.1633 || pixAcc:0.8650 || m_IOU:0.8093 || || Cost Time: 0:00:50 || Estimated Time: 6:13:29
+2024-06-06 09:03:23,818 semantic_segmentation INFO: Iters: 520/228400 || Lr: 0.001796 || Loss: 0.1047 || pixAcc:0.8659 || m_IOU:0.8100 || || Cost Time: 0:00:51 || Estimated Time: 6:13:25
+2024-06-06 09:03:24,794 semantic_segmentation INFO: Iters: 530/228400 || Lr: 0.001796 || Loss: 0.1303 || pixAcc:0.8665 || m_IOU:0.8107 || || Cost Time: 0:00:52 || Estimated Time: 6:13:20
+2024-06-06 09:03:25,774 semantic_segmentation INFO: Iters: 540/228400 || Lr: 0.001796 || Loss: 0.1212 || pixAcc:0.8671 || m_IOU:0.8109 || || Cost Time: 0:00:53 || Estimated Time: 6:13:19
+2024-06-06 09:03:26,765 semantic_segmentation INFO: Iters: 550/228400 || Lr: 0.001796 || Loss: 0.1328 || pixAcc:0.8677 || m_IOU:0.8116 || || Cost Time: 0:00:54 || Estimated Time: 6:13:21
+2024-06-06 09:03:27,767 semantic_segmentation INFO: Iters: 560/228400 || Lr: 0.001796 || Loss: 0.1692 || pixAcc:0.8688 || m_IOU:0.8126 || || Cost Time: 0:00:55 || Estimated Time: 6:13:26
+2024-06-06 09:03:28,741 semantic_segmentation INFO: Iters: 570/228400 || Lr: 0.001796 || Loss: 0.0902 || pixAcc:0.8693 || m_IOU:0.8132 || || Cost Time: 0:00:56 || Estimated Time: 6:13:22
+2024-06-06 09:03:29,004 semantic_segmentation INFO: Sample: 1, Validation pixAcc: 0.957, mIoU: 0.825
+2024-06-06 09:03:29,081 semantic_segmentation INFO: Sample: 2, Validation pixAcc: 0.946, mIoU: 0.718
+2024-06-06 09:03:29,151 semantic_segmentation INFO: Sample: 3, Validation pixAcc: 0.947, mIoU: 0.676
+2024-06-06 09:03:29,222 semantic_segmentation INFO: Sample: 4, Validation pixAcc: 0.950, mIoU: 0.652
+2024-06-06 09:03:29,296 semantic_segmentation INFO: Sample: 5, Validation pixAcc: 0.948, mIoU: 0.626
+2024-06-06 09:03:29,366 semantic_segmentation INFO: Sample: 6, Validation pixAcc: 0.947, mIoU: 0.614
+2024-06-06 09:03:29,438 semantic_segmentation INFO: Sample: 7, Validation pixAcc: 0.948, mIoU: 0.608
+2024-06-06 09:03:29,509 semantic_segmentation INFO: Sample: 8, Validation pixAcc: 0.942, mIoU: 0.610
+2024-06-06 09:03:29,580 semantic_segmentation INFO: Sample: 9, Validation pixAcc: 0.945, mIoU: 0.618
+2024-06-06 09:03:29,653 semantic_segmentation INFO: Sample: 10, Validation pixAcc: 0.946, mIoU: 0.614
+2024-06-06 09:03:29,725 semantic_segmentation INFO: Sample: 11, Validation pixAcc: 0.947, mIoU: 0.611
+2024-06-06 09:03:29,796 semantic_segmentation INFO: Sample: 12, Validation pixAcc: 0.949, mIoU: 0.612
+2024-06-06 09:03:29,871 semantic_segmentation INFO: Sample: 13, Validation pixAcc: 0.948, mIoU: 0.600
+2024-06-06 09:03:29,950 semantic_segmentation INFO: Sample: 14, Validation pixAcc: 0.948, mIoU: 0.597
+2024-06-06 09:03:30,027 semantic_segmentation INFO: Sample: 15, Validation pixAcc: 0.950, mIoU: 0.653
+2024-06-06 09:03:30,105 semantic_segmentation INFO: Sample: 16, Validation pixAcc: 0.951, mIoU: 0.694
+2024-06-06 09:03:30,183 semantic_segmentation INFO: Sample: 17, Validation pixAcc: 0.952, mIoU: 0.729
+2024-06-06 09:03:30,259 semantic_segmentation INFO: Sample: 18, Validation pixAcc: 0.952, mIoU: 0.778
+2024-06-06 09:03:30,337 semantic_segmentation INFO: Sample: 19, Validation pixAcc: 0.950, mIoU: 0.798
+2024-06-06 09:03:30,415 semantic_segmentation INFO: Sample: 20, Validation pixAcc: 0.949, mIoU: 0.813
+2024-06-06 09:03:30,492 semantic_segmentation INFO: Sample: 21, Validation pixAcc: 0.947, mIoU: 0.824
+2024-06-06 09:03:30,570 semantic_segmentation INFO: Sample: 22, Validation pixAcc: 0.947, mIoU: 0.833
+2024-06-06 09:03:30,646 semantic_segmentation INFO: Sample: 23, Validation pixAcc: 0.947, mIoU: 0.834
+2024-06-06 09:03:30,722 semantic_segmentation INFO: Sample: 24, Validation pixAcc: 0.948, mIoU: 0.841
+2024-06-06 09:03:30,798 semantic_segmentation INFO: Sample: 25, Validation pixAcc: 0.948, mIoU: 0.839
+2024-06-06 09:03:30,873 semantic_segmentation INFO: Sample: 26, Validation pixAcc: 0.946, mIoU: 0.832
+2024-06-06 09:03:30,944 semantic_segmentation INFO: Sample: 27, Validation pixAcc: 0.946, mIoU: 0.828
+2024-06-06 09:03:31,020 semantic_segmentation INFO: Sample: 28, Validation pixAcc: 0.944, mIoU: 0.817
+2024-06-06 09:03:31,091 semantic_segmentation INFO: Sample: 29, Validation pixAcc: 0.945, mIoU: 0.817
+2024-06-06 09:03:31,162 semantic_segmentation INFO: Sample: 30, Validation pixAcc: 0.944, mIoU: 0.813
+2024-06-06 09:03:31,232 semantic_segmentation INFO: Sample: 31, Validation pixAcc: 0.944, mIoU: 0.810
+2024-06-06 09:03:31,304 semantic_segmentation INFO: Sample: 32, Validation pixAcc: 0.945, mIoU: 0.807
+2024-06-06 09:03:31,374 semantic_segmentation INFO: Sample: 33, Validation pixAcc: 0.946, mIoU: 0.807
+2024-06-06 09:03:31,445 semantic_segmentation INFO: Sample: 34, Validation pixAcc: 0.946, mIoU: 0.807
+2024-06-06 09:03:31,522 semantic_segmentation INFO: Sample: 35, Validation pixAcc: 0.943, mIoU: 0.792
+2024-06-06 09:03:31,596 semantic_segmentation INFO: Sample: 36, Validation pixAcc: 0.941, mIoU: 0.784
+2024-06-06 09:03:31,674 semantic_segmentation INFO: Sample: 37, Validation pixAcc: 0.933, mIoU: 0.761
+2024-06-06 09:03:31,752 semantic_segmentation INFO: Sample: 38, Validation pixAcc: 0.913, mIoU: 0.723
+2024-06-06 09:03:31,832 semantic_segmentation INFO: Sample: 39, Validation pixAcc: 0.897, mIoU: 0.690
+2024-06-06 09:03:31,908 semantic_segmentation INFO: Sample: 40, Validation pixAcc: 0.885, mIoU: 0.669
+2024-06-06 09:03:31,983 semantic_segmentation INFO: Sample: 41, Validation pixAcc: 0.876, mIoU: 0.652
+2024-06-06 09:03:32,053 semantic_segmentation INFO: Sample: 42, Validation pixAcc: 0.871, mIoU: 0.643
+2024-06-06 09:03:32,122 semantic_segmentation INFO: Sample: 43, Validation pixAcc: 0.870, mIoU: 0.639
+2024-06-06 09:03:32,197 semantic_segmentation INFO: Sample: 44, Validation pixAcc: 0.865, mIoU: 0.630
+2024-06-06 09:03:32,269 semantic_segmentation INFO: Sample: 45, Validation pixAcc: 0.859, mIoU: 0.621
+2024-06-06 09:03:32,347 semantic_segmentation INFO: Sample: 46, Validation pixAcc: 0.848, mIoU: 0.603
+2024-06-06 09:03:32,424 semantic_segmentation INFO: Sample: 47, Validation pixAcc: 0.838, mIoU: 0.589
+2024-06-06 09:03:32,498 semantic_segmentation INFO: Sample: 48, Validation pixAcc: 0.830, mIoU: 0.577
+2024-06-06 09:03:32,574 semantic_segmentation INFO: Sample: 49, Validation pixAcc: 0.825, mIoU: 0.569
+2024-06-06 09:03:32,647 semantic_segmentation INFO: Sample: 50, Validation pixAcc: 0.821, mIoU: 0.563
+2024-06-06 09:03:32,719 semantic_segmentation INFO: Sample: 51, Validation pixAcc: 0.819, mIoU: 0.559
+2024-06-06 09:03:32,793 semantic_segmentation INFO: Sample: 52, Validation pixAcc: 0.819, mIoU: 0.557
+2024-06-06 09:03:32,864 semantic_segmentation INFO: Sample: 53, Validation pixAcc: 0.819, mIoU: 0.556
+2024-06-06 09:03:32,934 semantic_segmentation INFO: Sample: 54, Validation pixAcc: 0.820, mIoU: 0.556
+2024-06-06 09:03:33,007 semantic_segmentation INFO: Sample: 55, Validation pixAcc: 0.819, mIoU: 0.552
+2024-06-06 09:03:33,086 semantic_segmentation INFO: Sample: 56, Validation pixAcc: 0.815, mIoU: 0.544
+2024-06-06 09:03:33,161 semantic_segmentation INFO: Sample: 57, Validation pixAcc: 0.810, mIoU: 0.537
+2024-06-06 09:03:33,238 semantic_segmentation INFO: Sample: 58, Validation pixAcc: 0.812, mIoU: 0.542
+2024-06-06 09:03:33,318 semantic_segmentation INFO: Sample: 59, Validation pixAcc: 0.815, mIoU: 0.553
+2024-06-06 09:03:33,395 semantic_segmentation INFO: Sample: 60, Validation pixAcc: 0.817, mIoU: 0.562
+2024-06-06 09:03:33,475 semantic_segmentation INFO: Sample: 61, Validation pixAcc: 0.819, mIoU: 0.569
+2024-06-06 09:03:33,554 semantic_segmentation INFO: Sample: 62, Validation pixAcc: 0.822, mIoU: 0.579
+2024-06-06 09:03:33,624 semantic_segmentation INFO: Sample: 63, Validation pixAcc: 0.820, mIoU: 0.575
+2024-06-06 09:03:33,708 semantic_segmentation INFO: Sample: 64, Validation pixAcc: 0.814, mIoU: 0.565
+2024-06-06 09:03:33,776 semantic_segmentation INFO: Sample: 65, Validation pixAcc: 0.814, mIoU: 0.563
+2024-06-06 09:03:33,848 semantic_segmentation INFO: Sample: 66, Validation pixAcc: 0.812, mIoU: 0.559
+2024-06-06 09:03:33,928 semantic_segmentation INFO: Sample: 67, Validation pixAcc: 0.813, mIoU: 0.559
+2024-06-06 09:03:34,009 semantic_segmentation INFO: Sample: 68, Validation pixAcc: 0.815, mIoU: 0.561
+2024-06-06 09:03:34,089 semantic_segmentation INFO: Sample: 69, Validation pixAcc: 0.817, mIoU: 0.562
+2024-06-06 09:03:34,170 semantic_segmentation INFO: Sample: 70, Validation pixAcc: 0.819, mIoU: 0.563
+2024-06-06 09:03:34,249 semantic_segmentation INFO: Sample: 71, Validation pixAcc: 0.821, mIoU: 0.564
+2024-06-06 09:03:35,192 semantic_segmentation INFO: Iters: 580/228400 || Lr: 0.001796 || Loss: 0.2137 || pixAcc:0.8308 || m_IOU:0.5915 || || Cost Time: 0:01:02 || Estimated Time: 6:49:09
+2024-06-06 09:03:36,162 semantic_segmentation INFO: Iters: 590/228400 || Lr: 0.001796 || Loss: 0.1352 || pixAcc:0.8386 || m_IOU:0.6221 || || Cost Time: 0:01:03 || Estimated Time: 6:48:26
+2024-06-06 09:03:37,174 semantic_segmentation INFO: Iters: 600/228400 || Lr: 0.001796 || Loss: 0.1312 || pixAcc:0.8450 || m_IOU:0.6440 || || Cost Time: 0:01:04 || Estimated Time: 6:48:01
+2024-06-06 09:03:38,148 semantic_segmentation INFO: Iters: 610/228400 || Lr: 0.001796 || Loss: 0.1636 || pixAcc:0.8511 || m_IOU:0.6631 || || Cost Time: 0:01:05 || Estimated Time: 6:47:23
+2024-06-06 09:03:39,126 semantic_segmentation INFO: Iters: 620/228400 || Lr: 0.001796 || Loss: 0.2112 || pixAcc:0.8556 || m_IOU:0.6805 || || Cost Time: 0:01:06 || Estimated Time: 6:46:47
+2024-06-06 09:03:40,099 semantic_segmentation INFO: Iters: 630/228400 || Lr: 0.001796 || Loss: 0.1696 || pixAcc:0.8599 || m_IOU:0.6935 || || Cost Time: 0:01:07 || Estimated Time: 6:46:10
+2024-06-06 09:03:41,078 semantic_segmentation INFO: Iters: 640/228400 || Lr: 0.001795 || Loss: 0.1842 || pixAcc:0.8639 || m_IOU:0.7046 || || Cost Time: 0:01:08 || Estimated Time: 6:45:37
+2024-06-06 09:03:42,055 semantic_segmentation INFO: Iters: 650/228400 || Lr: 0.001795 || Loss: 0.2070 || pixAcc:0.8668 || m_IOU:0.7136 || || Cost Time: 0:01:09 || Estimated Time: 6:45:03
+2024-06-06 09:03:43,030 semantic_segmentation INFO: Iters: 660/228400 || Lr: 0.001795 || Loss: 0.1641 || pixAcc:0.8697 || m_IOU:0.7219 || || Cost Time: 0:01:10 || Estimated Time: 6:44:31
+2024-06-06 09:03:44,009 semantic_segmentation INFO: Iters: 670/228400 || Lr: 0.001795 || Loss: 0.1429 || pixAcc:0.8720 || m_IOU:0.7294 || || Cost Time: 0:01:11 || Estimated Time: 6:44:00
+2024-06-06 09:03:44,993 semantic_segmentation INFO: Iters: 680/228400 || Lr: 0.001795 || Loss: 0.2406 || pixAcc:0.8739 || m_IOU:0.7361 || || Cost Time: 0:01:12 || Estimated Time: 6:43:32
+2024-06-06 09:03:45,976 semantic_segmentation INFO: Iters: 690/228400 || Lr: 0.001795 || Loss: 0.1581 || pixAcc:0.8749 || m_IOU:0.7427 || || Cost Time: 0:01:13 || Estimated Time: 6:43:03
+2024-06-06 09:03:46,962 semantic_segmentation INFO: Iters: 700/228400 || Lr: 0.001795 || Loss: 0.1133 || pixAcc:0.8776 || m_IOU:0.7489 || || Cost Time: 0:01:14 || Estimated Time: 6:42:39
+2024-06-06 09:03:47,936 semantic_segmentation INFO: Iters: 710/228400 || Lr: 0.001795 || Loss: 0.1822 || pixAcc:0.8789 || m_IOU:0.7538 || || Cost Time: 0:01:15 || Estimated Time: 6:42:10
+2024-06-06 09:03:48,912 semantic_segmentation INFO: Iters: 720/228400 || Lr: 0.001795 || Loss: 0.1352 || pixAcc:0.8802 || m_IOU:0.7593 || || Cost Time: 0:01:16 || Estimated Time: 6:41:42
+2024-06-06 09:03:49,886 semantic_segmentation INFO: Iters: 730/228400 || Lr: 0.001795 || Loss: 0.1392 || pixAcc:0.8819 || m_IOU:0.7638 || || Cost Time: 0:01:17 || Estimated Time: 6:41:14
+2024-06-06 09:03:50,868 semantic_segmentation INFO: Iters: 740/228400 || Lr: 0.001795 || Loss: 0.1438 || pixAcc:0.8836 || m_IOU:0.7674 || || Cost Time: 0:01:18 || Estimated Time: 6:40:51
+2024-06-06 09:03:51,854 semantic_segmentation INFO: Iters: 750/228400 || Lr: 0.001795 || Loss: 0.1492 || pixAcc:0.8848 || m_IOU:0.7710 || || Cost Time: 0:01:19 || Estimated Time: 6:40:28
+2024-06-06 09:03:52,854 semantic_segmentation INFO: Iters: 760/228400 || Lr: 0.001795 || Loss: 0.1615 || pixAcc:0.8857 || m_IOU:0.7749 || || Cost Time: 0:01:20 || Estimated Time: 6:40:10
+2024-06-06 09:03:53,830 semantic_segmentation INFO: Iters: 770/228400 || Lr: 0.001795 || Loss: 0.1759 || pixAcc:0.8868 || m_IOU:0.7791 || || Cost Time: 0:01:21 || Estimated Time: 6:39:46
+2024-06-06 09:03:54,805 semantic_segmentation INFO: Iters: 780/228400 || Lr: 0.001794 || Loss: 0.0840 || pixAcc:0.8885 || m_IOU:0.7832 || || Cost Time: 0:01:22 || Estimated Time: 6:39:22
+2024-06-06 09:03:55,794 semantic_segmentation INFO: Iters: 790/228400 || Lr: 0.001794 || Loss: 0.1769 || pixAcc:0.8895 || m_IOU:0.7864 || || Cost Time: 0:01:23 || Estimated Time: 6:39:02
+2024-06-06 09:03:56,771 semantic_segmentation INFO: Iters: 800/228400 || Lr: 0.001794 || Loss: 0.1583 || pixAcc:0.8899 || m_IOU:0.7891 || || Cost Time: 0:01:24 || Estimated Time: 6:38:40
+2024-06-06 09:03:57,745 semantic_segmentation INFO: Iters: 810/228400 || Lr: 0.001794 || Loss: 0.1214 || pixAcc:0.8908 || m_IOU:0.7915 || || Cost Time: 0:01:25 || Estimated Time: 6:38:18
+2024-06-06 09:03:58,721 semantic_segmentation INFO: Iters: 820/228400 || Lr: 0.001794 || Loss: 0.1225 || pixAcc:0.8915 || m_IOU:0.7940 || || Cost Time: 0:01:26 || Estimated Time: 6:37:56
+2024-06-06 09:03:59,698 semantic_segmentation INFO: Iters: 830/228400 || Lr: 0.001794 || Loss: 0.1265 || pixAcc:0.8922 || m_IOU:0.7961 || || Cost Time: 0:01:27 || Estimated Time: 6:37:35
+2024-06-06 09:04:00,674 semantic_segmentation INFO: Iters: 840/228400 || Lr: 0.001794 || Loss: 0.1440 || pixAcc:0.8928 || m_IOU:0.7978 || || Cost Time: 0:01:28 || Estimated Time: 6:37:14
+2024-06-06 09:04:01,652 semantic_segmentation INFO: Iters: 850/228400 || Lr: 0.001794 || Loss: 0.1345 || pixAcc:0.8932 || m_IOU:0.7999 || || Cost Time: 0:01:29 || Estimated Time: 6:36:54
+2024-06-06 09:04:02,639 semantic_segmentation INFO: Iters: 860/228400 || Lr: 0.001794 || Loss: 0.1737 || pixAcc:0.8936 || m_IOU:0.8017 || || Cost Time: 0:01:30 || Estimated Time: 6:36:38
+2024-06-06 09:04:03,616 semantic_segmentation INFO: Iters: 870/228400 || Lr: 0.001794 || Loss: 0.1594 || pixAcc:0.8945 || m_IOU:0.8028 || || Cost Time: 0:01:31 || Estimated Time: 6:36:19
+2024-06-06 09:04:04,610 semantic_segmentation INFO: Iters: 880/228400 || Lr: 0.001794 || Loss: 0.2071 || pixAcc:0.8945 || m_IOU:0.8046 || || Cost Time: 0:01:32 || Estimated Time: 6:36:04
+2024-06-06 09:04:05,589 semantic_segmentation INFO: Iters: 890/228400 || Lr: 0.001794 || Loss: 0.1722 || pixAcc:0.8952 || m_IOU:0.8069 || || Cost Time: 0:01:32 || Estimated Time: 6:35:47
+2024-06-06 09:04:06,563 semantic_segmentation INFO: Iters: 900/228400 || Lr: 0.001794 || Loss: 0.1526 || pixAcc:0.8950 || m_IOU:0.8078 || || Cost Time: 0:01:33 || Estimated Time: 6:35:28
+2024-06-06 09:04:07,542 semantic_segmentation INFO: Iters: 910/228400 || Lr: 0.001794 || Loss: 0.1181 || pixAcc:0.8958 || m_IOU:0.8096 || || Cost Time: 0:01:34 || Estimated Time: 6:35:11
+2024-06-06 09:04:08,514 semantic_segmentation INFO: Iters: 920/228400 || Lr: 0.001793 || Loss: 0.1331 || pixAcc:0.8962 || m_IOU:0.8104 || || Cost Time: 0:01:35 || Estimated Time: 6:34:52
+2024-06-06 09:04:09,491 semantic_segmentation INFO: Iters: 930/228400 || Lr: 0.001793 || Loss: 0.1195 || pixAcc:0.8969 || m_IOU:0.8118 || || Cost Time: 0:01:36 || Estimated Time: 6:34:36
+2024-06-06 09:04:10,468 semantic_segmentation INFO: Iters: 940/228400 || Lr: 0.001793 || Loss: 0.1267 || pixAcc:0.8971 || m_IOU:0.8127 || || Cost Time: 0:01:37 || Estimated Time: 6:34:20
+2024-06-06 09:04:11,449 semantic_segmentation INFO: Iters: 950/228400 || Lr: 0.001793 || Loss: 0.1123 || pixAcc:0.8979 || m_IOU:0.8146 || || Cost Time: 0:01:38 || Estimated Time: 6:34:05
+2024-06-06 09:04:12,426 semantic_segmentation INFO: Iters: 960/228400 || Lr: 0.001793 || Loss: 0.1357 || pixAcc:0.8984 || m_IOU:0.8159 || || Cost Time: 0:01:39 || Estimated Time: 6:33:49
+2024-06-06 09:04:13,414 semantic_segmentation INFO: Iters: 970/228400 || Lr: 0.001793 || Loss: 0.2085 || pixAcc:0.8990 || m_IOU:0.8171 || || Cost Time: 0:01:40 || Estimated Time: 6:33:36
+2024-06-06 09:04:14,396 semantic_segmentation INFO: Iters: 980/228400 || Lr: 0.001793 || Loss: 0.1293 || pixAcc:0.8992 || m_IOU:0.8182 || || Cost Time: 0:01:41 || Estimated Time: 6:33:22
+2024-06-06 09:04:15,370 semantic_segmentation INFO: Iters: 990/228400 || Lr: 0.001793 || Loss: 0.1225 || pixAcc:0.8993 || m_IOU:0.8188 || || Cost Time: 0:01:42 || Estimated Time: 6:33:05
+2024-06-06 09:04:16,347 semantic_segmentation INFO: Iters: 1000/228400 || Lr: 0.001793 || Loss: 0.1639 || pixAcc:0.8992 || m_IOU:0.8198 || || Cost Time: 0:01:43 || Estimated Time: 6:32:51
+2024-06-06 09:04:17,324 semantic_segmentation INFO: Iters: 1010/228400 || Lr: 0.001793 || Loss: 0.1299 || pixAcc:0.8993 || m_IOU:0.8206 || || Cost Time: 0:01:44 || Estimated Time: 6:32:36
+2024-06-06 09:04:18,297 semantic_segmentation INFO: Iters: 1020/228400 || Lr: 0.001793 || Loss: 0.1685 || pixAcc:0.8996 || m_IOU:0.8212 || || Cost Time: 0:01:45 || Estimated Time: 6:32:21
+2024-06-06 09:04:19,272 semantic_segmentation INFO: Iters: 1030/228400 || Lr: 0.001793 || Loss: 0.2134 || pixAcc:0.8998 || m_IOU:0.8223 || || Cost Time: 0:01:46 || Estimated Time: 6:32:06
+2024-06-06 09:04:20,257 semantic_segmentation INFO: Iters: 1040/228400 || Lr: 0.001793 || Loss: 0.1299 || pixAcc:0.9001 || m_IOU:0.8232 || || Cost Time: 0:01:47 || Estimated Time: 6:31:55
+2024-06-06 09:04:21,238 semantic_segmentation INFO: Iters: 1050/228400 || Lr: 0.001793 || Loss: 0.1246 || pixAcc:0.9006 || m_IOU:0.8241 || || Cost Time: 0:01:48 || Estimated Time: 6:31:42
+2024-06-06 09:04:22,221 semantic_segmentation INFO: Iters: 1060/228400 || Lr: 0.001792 || Loss: 0.3051 || pixAcc:0.9008 || m_IOU:0.8243 || || Cost Time: 0:01:49 || Estimated Time: 6:31:31
+2024-06-06 09:04:23,206 semantic_segmentation INFO: Iters: 1070/228400 || Lr: 0.001792 || Loss: 0.1592 || pixAcc:0.9006 || m_IOU:0.8250 || || Cost Time: 0:01:50 || Estimated Time: 6:31:19
+2024-06-06 09:04:24,188 semantic_segmentation INFO: Iters: 1080/228400 || Lr: 0.001792 || Loss: 0.2148 || pixAcc:0.9007 || m_IOU:0.8258 || || Cost Time: 0:01:51 || Estimated Time: 6:31:07
+2024-06-06 09:04:25,168 semantic_segmentation INFO: Iters: 1090/228400 || Lr: 0.001792 || Loss: 0.1268 || pixAcc:0.9006 || m_IOU:0.8264 || || Cost Time: 0:01:52 || Estimated Time: 6:30:55
+2024-06-06 09:04:26,144 semantic_segmentation INFO: Iters: 1100/228400 || Lr: 0.001792 || Loss: 0.1023 || pixAcc:0.9009 || m_IOU:0.8269 || || Cost Time: 0:01:53 || Estimated Time: 6:30:43
+2024-06-06 09:04:27,124 semantic_segmentation INFO: Iters: 1110/228400 || Lr: 0.001792 || Loss: 0.1830 || pixAcc:0.9013 || m_IOU:0.8279 || || Cost Time: 0:01:54 || Estimated Time: 6:30:31
+2024-06-06 09:04:28,105 semantic_segmentation INFO: Iters: 1120/228400 || Lr: 0.001792 || Loss: 0.1891 || pixAcc:0.9017 || m_IOU:0.8287 || || Cost Time: 0:01:55 || Estimated Time: 6:30:20
+2024-06-06 09:04:29,101 semantic_segmentation INFO: Iters: 1130/228400 || Lr: 0.001792 || Loss: 0.1601 || pixAcc:0.9020 || m_IOU:0.8295 || || Cost Time: 0:01:56 || Estimated Time: 6:30:12
+2024-06-06 09:04:30,077 semantic_segmentation INFO: Iters: 1140/228400 || Lr: 0.001792 || Loss: 0.1177 || pixAcc:0.9024 || m_IOU:0.8300 || || Cost Time: 0:01:57 || Estimated Time: 6:30:00
+2024-06-06 09:04:30,417 semantic_segmentation INFO: Sample: 1, Validation pixAcc: 0.922, mIoU: 0.852
+2024-06-06 09:04:30,488 semantic_segmentation INFO: Sample: 2, Validation pixAcc: 0.919, mIoU: 0.810
+2024-06-06 09:04:30,559 semantic_segmentation INFO: Sample: 3, Validation pixAcc: 0.923, mIoU: 0.793
+2024-06-06 09:04:30,628 semantic_segmentation INFO: Sample: 4, Validation pixAcc: 0.930, mIoU: 0.786
+2024-06-06 09:04:30,700 semantic_segmentation INFO: Sample: 5, Validation pixAcc: 0.932, mIoU: 0.780
+2024-06-06 09:04:30,771 semantic_segmentation INFO: Sample: 6, Validation pixAcc: 0.932, mIoU: 0.783
+2024-06-06 09:04:30,842 semantic_segmentation INFO: Sample: 7, Validation pixAcc: 0.937, mIoU: 0.784
+2024-06-06 09:04:30,914 semantic_segmentation INFO: Sample: 8, Validation pixAcc: 0.934, mIoU: 0.794
+2024-06-06 09:04:30,983 semantic_segmentation INFO: Sample: 9, Validation pixAcc: 0.936, mIoU: 0.795
+2024-06-06 09:04:31,056 semantic_segmentation INFO: Sample: 10, Validation pixAcc: 0.937, mIoU: 0.796
+2024-06-06 09:04:31,127 semantic_segmentation INFO: Sample: 11, Validation pixAcc: 0.937, mIoU: 0.793
+2024-06-06 09:04:31,195 semantic_segmentation INFO: Sample: 12, Validation pixAcc: 0.939, mIoU: 0.791
+2024-06-06 09:04:31,268 semantic_segmentation INFO: Sample: 13, Validation pixAcc: 0.933, mIoU: 0.779
+2024-06-06 09:04:31,346 semantic_segmentation INFO: Sample: 14, Validation pixAcc: 0.919, mIoU: 0.757
+2024-06-06 09:04:31,421 semantic_segmentation INFO: Sample: 15, Validation pixAcc: 0.919, mIoU: 0.774
+2024-06-06 09:04:31,497 semantic_segmentation INFO: Sample: 16, Validation pixAcc: 0.911, mIoU: 0.779
+2024-06-06 09:04:31,574 semantic_segmentation INFO: Sample: 17, Validation pixAcc: 0.905, mIoU: 0.790
+2024-06-06 09:04:31,649 semantic_segmentation INFO: Sample: 18, Validation pixAcc: 0.904, mIoU: 0.816
+2024-06-06 09:04:31,728 semantic_segmentation INFO: Sample: 19, Validation pixAcc: 0.902, mIoU: 0.828
+2024-06-06 09:04:31,806 semantic_segmentation INFO: Sample: 20, Validation pixAcc: 0.901, mIoU: 0.839
+2024-06-06 09:04:31,884 semantic_segmentation INFO: Sample: 21, Validation pixAcc: 0.897, mIoU: 0.844
+2024-06-06 09:04:31,961 semantic_segmentation INFO: Sample: 22, Validation pixAcc: 0.893, mIoU: 0.846
+2024-06-06 09:04:32,039 semantic_segmentation INFO: Sample: 23, Validation pixAcc: 0.886, mIoU: 0.841
+2024-06-06 09:04:32,115 semantic_segmentation INFO: Sample: 24, Validation pixAcc: 0.883, mIoU: 0.841
+2024-06-06 09:04:32,189 semantic_segmentation INFO: Sample: 25, Validation pixAcc: 0.882, mIoU: 0.840
+2024-06-06 09:04:32,259 semantic_segmentation INFO: Sample: 26, Validation pixAcc: 0.883, mIoU: 0.840
+2024-06-06 09:04:32,331 semantic_segmentation INFO: Sample: 27, Validation pixAcc: 0.885, mIoU: 0.840
+2024-06-06 09:04:32,406 semantic_segmentation INFO: Sample: 28, Validation pixAcc: 0.886, mIoU: 0.841
+2024-06-06 09:04:32,476 semantic_segmentation INFO: Sample: 29, Validation pixAcc: 0.889, mIoU: 0.842
+2024-06-06 09:04:32,547 semantic_segmentation INFO: Sample: 30, Validation pixAcc: 0.891, mIoU: 0.844
+2024-06-06 09:04:32,619 semantic_segmentation INFO: Sample: 31, Validation pixAcc: 0.892, mIoU: 0.845
+2024-06-06 09:04:32,694 semantic_segmentation INFO: Sample: 32, Validation pixAcc: 0.895, mIoU: 0.846
+2024-06-06 09:04:32,764 semantic_segmentation INFO: Sample: 33, Validation pixAcc: 0.897, mIoU: 0.846
+2024-06-06 09:04:32,837 semantic_segmentation INFO: Sample: 34, Validation pixAcc: 0.899, mIoU: 0.847
+2024-06-06 09:04:32,917 semantic_segmentation INFO: Sample: 35, Validation pixAcc: 0.900, mIoU: 0.847
+2024-06-06 09:04:32,986 semantic_segmentation INFO: Sample: 36, Validation pixAcc: 0.900, mIoU: 0.847
+2024-06-06 09:04:33,058 semantic_segmentation INFO: Sample: 37, Validation pixAcc: 0.900, mIoU: 0.847
+2024-06-06 09:04:33,135 semantic_segmentation INFO: Sample: 38, Validation pixAcc: 0.900, mIoU: 0.849
+2024-06-06 09:04:33,212 semantic_segmentation INFO: Sample: 39, Validation pixAcc: 0.900, mIoU: 0.852
+2024-06-06 09:04:33,287 semantic_segmentation INFO: Sample: 40, Validation pixAcc: 0.900, mIoU: 0.851
+2024-06-06 09:04:33,360 semantic_segmentation INFO: Sample: 41, Validation pixAcc: 0.900, mIoU: 0.850
+2024-06-06 09:04:33,429 semantic_segmentation INFO: Sample: 42, Validation pixAcc: 0.900, mIoU: 0.847
+2024-06-06 09:04:33,496 semantic_segmentation INFO: Sample: 43, Validation pixAcc: 0.901, mIoU: 0.846
+2024-06-06 09:04:33,566 semantic_segmentation INFO: Sample: 44, Validation pixAcc: 0.902, mIoU: 0.847
+2024-06-06 09:04:33,635 semantic_segmentation INFO: Sample: 45, Validation pixAcc: 0.901, mIoU: 0.843
+2024-06-06 09:04:33,710 semantic_segmentation INFO: Sample: 46, Validation pixAcc: 0.901, mIoU: 0.845
+2024-06-06 09:04:33,786 semantic_segmentation INFO: Sample: 47, Validation pixAcc: 0.900, mIoU: 0.843
+2024-06-06 09:04:33,858 semantic_segmentation INFO: Sample: 48, Validation pixAcc: 0.900, mIoU: 0.843
+2024-06-06 09:04:33,931 semantic_segmentation INFO: Sample: 49, Validation pixAcc: 0.900, mIoU: 0.841
+2024-06-06 09:04:34,001 semantic_segmentation INFO: Sample: 50, Validation pixAcc: 0.900, mIoU: 0.841
+2024-06-06 09:04:34,073 semantic_segmentation INFO: Sample: 51, Validation pixAcc: 0.900, mIoU: 0.841
+2024-06-06 09:04:34,147 semantic_segmentation INFO: Sample: 52, Validation pixAcc: 0.901, mIoU: 0.840
+2024-06-06 09:04:34,218 semantic_segmentation INFO: Sample: 53, Validation pixAcc: 0.901, mIoU: 0.840
+2024-06-06 09:04:34,286 semantic_segmentation INFO: Sample: 54, Validation pixAcc: 0.902, mIoU: 0.839
+2024-06-06 09:04:34,359 semantic_segmentation INFO: Sample: 55, Validation pixAcc: 0.902, mIoU: 0.838
+2024-06-06 09:04:34,436 semantic_segmentation INFO: Sample: 56, Validation pixAcc: 0.902, mIoU: 0.839
+2024-06-06 09:04:34,509 semantic_segmentation INFO: Sample: 57, Validation pixAcc: 0.902, mIoU: 0.840
+2024-06-06 09:04:34,586 semantic_segmentation INFO: Sample: 58, Validation pixAcc: 0.900, mIoU: 0.839
+2024-06-06 09:04:34,663 semantic_segmentation INFO: Sample: 59, Validation pixAcc: 0.898, mIoU: 0.838
+2024-06-06 09:04:34,741 semantic_segmentation INFO: Sample: 60, Validation pixAcc: 0.897, mIoU: 0.838
+2024-06-06 09:04:34,820 semantic_segmentation INFO: Sample: 61, Validation pixAcc: 0.895, mIoU: 0.835
+2024-06-06 09:04:34,900 semantic_segmentation INFO: Sample: 62, Validation pixAcc: 0.893, mIoU: 0.835
+2024-06-06 09:04:34,971 semantic_segmentation INFO: Sample: 63, Validation pixAcc: 0.894, mIoU: 0.837
+2024-06-06 09:04:35,047 semantic_segmentation INFO: Sample: 64, Validation pixAcc: 0.895, mIoU: 0.840
+2024-06-06 09:04:35,117 semantic_segmentation INFO: Sample: 65, Validation pixAcc: 0.897, mIoU: 0.842
+2024-06-06 09:04:35,190 semantic_segmentation INFO: Sample: 66, Validation pixAcc: 0.898, mIoU: 0.843
+2024-06-06 09:04:35,272 semantic_segmentation INFO: Sample: 67, Validation pixAcc: 0.897, mIoU: 0.843
+2024-06-06 09:04:35,354 semantic_segmentation INFO: Sample: 68, Validation pixAcc: 0.895, mIoU: 0.840
+2024-06-06 09:04:35,435 semantic_segmentation INFO: Sample: 69, Validation pixAcc: 0.894, mIoU: 0.839
+2024-06-06 09:04:35,518 semantic_segmentation INFO: Sample: 70, Validation pixAcc: 0.893, mIoU: 0.839
+2024-06-06 09:04:35,598 semantic_segmentation INFO: Sample: 71, Validation pixAcc: 0.892, mIoU: 0.838
+2024-06-06 09:04:36,462 semantic_segmentation INFO: Iters: 1150/228400 || Lr: 0.001792 || Loss: 0.0933 || pixAcc:0.8936 || m_IOU:0.8407 || || Cost Time: 0:02:03 || Estimated Time: 6:47:35

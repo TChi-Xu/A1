@@ -1,0 +1,1 @@
+2024-06-07 14:50:57,357 semantic_segmentation INFO: Namespace(dataset='hisea', model='WaveResUn=Net')

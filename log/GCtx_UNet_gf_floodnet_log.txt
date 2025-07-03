@@ -1,0 +1,2 @@
+2024-07-03 20:58:44,573 semantic_segmentation INFO: Namespace(dataset='gf_floodnet', model='GCtx_UNet')
+2024-07-03 20:58:44,814 semantic_segmentation INFO: Start training, Total Epochs: 400 = Total Iterations 228400

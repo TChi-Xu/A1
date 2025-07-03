@@ -1,0 +1,6 @@
+2024-04-13 19:58:27,772 semantic_segmentation INFO: Namespace(dataset='hisea', model='Student')
+2024-04-13 19:58:28,062 semantic_segmentation INFO: Start training, Total Epochs: 400 = Total Iterations 280800
+2024-04-13 19:58:44,119 semantic_segmentation INFO: Iters: 10/280800 || Lr: 0.001800 || Loss: 0.5163 || pixAcc:0.3229 || m_IOU:0.3391 || || Cost Time: 0:00:16 || Estimated Time: 5 days, 4:16:45
+2024-04-13 19:58:45,208 semantic_segmentation INFO: Iters: 20/280800 || Lr: 0.001800 || Loss: 0.3961 || pixAcc:0.3605 || m_IOU:0.3643 || || Cost Time: 0:00:17 || Estimated Time: 2 days, 18:24:42
+2024-04-13 19:58:46,310 semantic_segmentation INFO: Iters: 30/280800 || Lr: 0.001800 || Loss: 0.5384 || pixAcc:0.4036 || m_IOU:0.3702 || || Cost Time: 0:00:18 || Estimated Time: 1 day, 23:07:26
+2024-04-13 19:58:47,426 semantic_segmentation INFO: Iters: 40/280800 || Lr: 0.001800 || Loss: 0.4293 || pixAcc:0.4363 || m_IOU:0.3838 || || Cost Time: 0:00:19 || Estimated Time: 1 day, 13:31:08
